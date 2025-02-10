@@ -9,7 +9,7 @@ Această aplicație permite efectuarea operațiilor matematice pe polinoame cu c
 - **Derivare**
 - **Integrare**
 
-Rezultatele sunt afișate direct pe interfață.  
+**Rezultatele sunt afișate direct pe interfață.**  
 
 ## Screenshot
 ![Screenshot](img.png)  
